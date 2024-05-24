@@ -1,1 +1,2 @@
 # Malaria-Detection
+The goal of the project was to use deep learning algorithms to help accurately detect malaria since machine learning and AI is more accurate and consistent than human classification. Thus, building a computer vision model that could classify images of uninfected red blood cells and parasitized cells, which are infected with malaria, would accomplish the goal of detecting malaria.
